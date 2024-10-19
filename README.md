@@ -19,5 +19,4 @@
     <br>
     <img width=40% src="https://discord.c99.nl/widget/theme-1/942093697078669323.png" alt="Discord">
   </div>
-  ⚠️ Profile unfinished, I will update it later
 </div>
