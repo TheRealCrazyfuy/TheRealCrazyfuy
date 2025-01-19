@@ -1,5 +1,5 @@
 # Abeja
-Developer and moderator on r/REDMAGIC
+Developer and r/REDMAGIC moderator
 
 ![](https://komarev.com/ghpvc/?username=TheRealCrazyfuy)
 
